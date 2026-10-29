@@ -1,0 +1,13 @@
+
+# Compiled executable files
+cpu_scheduling
+cpu_scheduling.exe
+*.o
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
